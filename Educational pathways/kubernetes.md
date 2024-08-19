@@ -13,7 +13,7 @@ Utbildningsväg administratör är för dig som vill kunna sätta upp, managera 
    1. [Cloud Native 101](https://omegapoint.academy/intresseanmlan-kurser/cloudnative-101) 
    2. [Microservices 101](https://omegapoint.academy/intresseanmlan-kurser/microservices-101)
 2. Ta en titt på [Udemys Docker & Kubernetes kurs](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
-3. Ta dig igenom [ACloudGurus videoserie för CKAD](https://learn.acloud.guru/course/certified-kubernetes-administrator/overview) (15-20h)
+3. Ta dig igenom [ACloudGurus videoserie för CKAD](https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview) (15-20h)
    1. Kap 2–4 -> du klarar dig som utvecklare i Kubernetes
    2. Kap 5–6 -> du förstår hur din applikation kan interagera inuti och utanför
    klustret
